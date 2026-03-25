@@ -8,5 +8,5 @@ function differencewith13(num) {
     }
 }
 //examples
-console.log(differencewith13(11));
-console.log(differencewith13(25));
+console.log(differencewith13(9));
+console.log(differencewith13(30));
